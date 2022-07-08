@@ -1,0 +1,7 @@
+
+IMPAR: el número de columnas de n1.txt es 81
+PAR: el número de columnas de n11.txt es 92
+PAR: el número de columnas de n21.txt es 46
+PAR: el número de columnas de n31.txt es 26
+IMPAR: el número de columnas de n41.txt es 11
+PAR: el número de columnas de n51.txt es 16
